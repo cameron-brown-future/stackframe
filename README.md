@@ -1,4 +1,3 @@
-TESTING
 stackframe 
 ==========
 ## JS Object representation of a stack frame
@@ -16,7 +15,7 @@ var stackFrame = new StackFrame({
     args: ['args'],
     fileName: 'http://localhost:3000/file.js',
     lineNumber: 1,
-    columnNumber: 3288, 
+    columnNumber: 3288,
     isEval: true,
     isNative: false,
     source: 'ORIGINAL_STACK_LINE'
